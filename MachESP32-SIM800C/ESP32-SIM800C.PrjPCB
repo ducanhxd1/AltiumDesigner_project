@@ -185,6 +185,31 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HBRYDJAW
 
+[Document9]
+DocumentPath=Job.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[ProjectVariant1]
+UniqueID=86DEEED1-7D36-4C4C-9C03-16139CB4A601
+Description=Variant of ESP32-SIM800C
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for ESP32-SIM800C\Design Rule Check - ESP32-SIM800C routed.html
 DItemRevisionGUID=
