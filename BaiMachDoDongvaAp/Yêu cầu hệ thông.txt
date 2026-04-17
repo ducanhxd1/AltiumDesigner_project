@@ -1,0 +1,13 @@
+﻿Thiết kế mạch giao diện người dùng
+
+-          Sử dụng vi điều khiển (PIC, STM32, MSP430, AVR,..)
+
+-          Màn hình TFT độ phân giải tối thiểu 240x320 (chỉ hiện ảnh tĩnh và biểu tượng không chạy video)
+
+-          Mạch cần giao tiếp với một bộ phận chấp hành qua internet (ví dụ:Ethernet, WiFi, GPRS)
+
+-          Có bàn phím nhập số và text sử dụng được cả ban ngày và ban đêm
+
+-          Tự bản thân mạch phải giám sát được điện áp và dòng tiêu thụ hiện tại của mạch
+
+-          Có cơ chế bật nguồn mềm không sử dụng công tắc on/off mà dùng button nhấn nhả vừa để bật vừa để tắt nguồn.

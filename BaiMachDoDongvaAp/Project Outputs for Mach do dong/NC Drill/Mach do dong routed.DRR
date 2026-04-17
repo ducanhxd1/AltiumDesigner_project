@@ -1,0 +1,25 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Mach do dong routed.PcbDoc   4/17/2026  2:27:44 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Mach do dong routed-RoundHoles.TXT
+ASCII SlotHoles File : Mach do dong routed-SlotHoles.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             34        PTH        9.85inch (250.28mm)
+T2      24mil (0.6mm)                                             Round             10        PTH        1.62inch (41.19mm)
+T3      28mil (0.7mm)                                             Round             423       PTH        67.08inch (1703.72mm)
+T4      35mil (0.9mm)                                             Round             8         PTH        0.71inch (18.08mm)
+T5      39mil (1mm)                                               Round             17        PTH        7.44inch (188.96mm)
+T6      40mil (1.02mm)                                            Round             4         PTH        0.52inch (13.25mm)
+T7      41mil (1.05mm)                                            Round             2         PTH        0.52inch (13.30mm)
+T8      50mil (1.27mm)                                            Slot              3         PTH        1.19inch (30.16mm)
+T9      64mil (1.63mm)                                            Round             2         PTH        0.61inch (15.49mm)
+T10     128mil (3.25mm)                                           Round             2         PTH        0.45inch (11.43mm)
+T11     157mil (4mm)                                              Round             1         PTH        0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              506
+
+Total Processing Time (hh:mm:ss) : 00:00:00
