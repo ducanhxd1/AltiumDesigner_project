@@ -21,7 +21,7 @@ So sánh với setting trong ALtium Designer
 - Tính toán standard impedance của đường truyền tín hiệu là 50 Ohm. Kết quả tính toán được hiển thị trong bảng dưới đây:
 ![alt text](image-5.png)
 
-- Từ đó cài đặt width của đường truyền tín hiệu là 0.3mm để đạt xấp xỉ (sai số nhỏ) được độ trở kháng chuẩn 50 Ohm.
+- Từ đó cài đặt width của đường truyền tín hiệu là 0.3mm để đạt xấp xỉ (sai số nhỏ) được độ trở kháng tiêu chuẩn 50 Ohm.
   
 ## Tranmission line calculator
 Có 2 dây differential pair (100 ohm) được thiết kế cho module Ethernet. Kết quả tính toán được hiển thị trong bảng dưới đây:
