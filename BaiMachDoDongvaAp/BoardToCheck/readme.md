@@ -1,5 +1,15 @@
 # Thực hành layout PCB mạch đo dòng và áp có Ethernet
 
+## Hình ảnh board
+
+### Mặt trước
+
+![Mặt trước board](TOP.png)
+
+### Mặt sau
+
+![Mặt sau board](BOTTOM.png)
+
 ## Mục tiêu
 
 Bài tập này nhằm luyện kỹ năng thiết kế PCB có kiểm soát impedance cho tín hiệu Ethernet, đảm bảo tín hiệu truyền ổn định, giảm nhiễu và đáp ứng tiêu chuẩn kỹ thuật.
